@@ -1,0 +1,591 @@
+uid=1_0 RootWebArea "Paid In Full | The AI System 500+ Students Used To Land $8k–$15k/Mo Remote Sales Roles" url="https://learn.paidinfull.vip/get-access/"
+  uid=1_1 ignored
+    uid=1_2 ignored
+      uid=1_3 ignored
+      uid=1_4 main
+        uid=1_5 sectionheader
+          uid=1_6 image "Paid In Full" url="https://learn.paidinfull.vip/assets/logos/logo-header.avif"
+        uid=1_7 generic
+          uid=1_8 generic
+            uid=1_9 ignored
+            uid=1_10 ignored
+              uid=1_11 StaticText "Aspiring High Ticket Sales Reps In 2026"
+                uid=1_12 InlineTextBox "Aspiring High Ticket Sales Reps In 2026"
+            uid=1_13 ignored
+          uid=1_14 heading "See The Exact AI System That 500+ Students Have Used To Land $8k–$15k/Mo Remote Sales Roles" level="1"
+            uid=1_15 StaticText "See The Exact AI System That 500+ Students Have Used To Land "
+              uid=1_12 InlineTextBox "See The Exact AI System That 500+ "
+              uid=1_12 InlineTextBox "Students Have Used To Land "
+            uid=1_16 StaticText "$8k–$15k/Mo"
+              uid=1_12 InlineTextBox "$8k–$15k/Mo"
+            uid=1_17 StaticText " Remote Sales Roles"
+              uid=1_12 InlineTextBox " Remote Sales Roles"
+          uid=1_18 paragraph
+            uid=1_19 StaticText "…And How I've Helped Hundreds Of Beginners Land Unicorn Offers"
+              uid=1_12 InlineTextBox "…And How I've Helped Hundreds Of Beginners Land Unicorn Offers"
+          uid=1_20 ignored
+            uid=1_21 generic
+              uid=1_22 generic
+                uid=1_23 ignored
+                uid=1_24 generic
+                  uid=1_25 generic
+                    uid=1_26 generic
+                    uid=1_27 generic
+                      uid=1_28 generic
+                      uid=1_29 generic
+                        uid=1_30 ignored
+                          uid=1_31 Video "New VSL"
+                            uid=1_32 ignored
+                            uid=1_33 ignored
+                              uid=1_34 ignored
+                              uid=1_35 ignored
+                                uid=1_36 ignored
+                              uid=1_37 ignored
+                                uid=1_38 ignored
+                                  uid=1_39 ignored
+                                  uid=1_40 ignored
+                                    uid=1_41 ignored
+                                      uid=1_42 ignored
+                                    uid=1_43 ignored
+                                    uid=1_44 ignored
+                                      uid=1_45 ignored
+                                      uid=1_46 ignored
+                                      uid=1_47 ignored
+                                    uid=1_48 ignored
+                                      uid=1_49 ignored
+                                    uid=1_50 ignored
+                                      uid=1_51 ignored
+                                  uid=1_52 ignored
+                              uid=1_53 ignored
+                              uid=1_54 ignored
+                              uid=1_55 ignored
+                              uid=1_56 ignored
+                              uid=1_57 ignored
+                                uid=1_58 ignored
+                                uid=1_59 ignored
+                                uid=1_60 ignored
+                                uid=1_61 ignored
+                                uid=1_62 ignored
+                                uid=1_63 ignored
+                                uid=1_64 ignored
+                                uid=1_65 ignored
+                                uid=1_66 ignored
+                                uid=1_67 ignored
+                        uid=1_68 generic
+                          uid=1_69 generic
+                            uid=1_70 generic
+                              uid=1_71 ignored
+                              uid=1_72 generic
+                                uid=1_73 button "Play Video: New VSL"
+                              uid=1_74 ignored
+                                uid=1_75 generic
+                                  uid=1_76 generic
+                                    uid=1_77 image "Video Thumbnail" url="https://embed-ssl.wistia.com/deliveries/f78d8ed9ac3f5d05fd85f3d9eaef325b4acb62ad.webp?image_crop_resized=3840x2160"
+                            uid=1_78 generic atomic live="polite" relevant="additions text"
+                            uid=1_79 LayoutTable
+                              uid=1_80 generic
+                                uid=1_81 ignored
+                              uid=1_82 generic
+                                uid=1_83 ignored
+                                  uid=1_84 generic
+                                    uid=1_85 generic
+                                      uid=1_86 button "Play Video: New VSL"
+                                        uid=1_87 generic
+                                        uid=1_88 generic
+                                  uid=1_89 ignored
+                                  uid=1_90 ignored
+                                  uid=1_91 ignored
+                                  uid=1_92 generic
+                                    uid=1_93 generic
+                                  uid=1_94 generic
+                                    uid=1_95 generic
+                              uid=1_96 generic
+                                uid=1_97 ignored
+                            uid=1_98 LayoutTable
+                              uid=1_99 generic
+                                uid=1_100 generic
+                                  uid=1_101 generic
+                                uid=1_102 generic
+                                  uid=1_103 generic
+                                    uid=1_104 generic
+                                      uid=1_105 generic
+                                        uid=1_106 button "Play Video" description="Play Video"
+                                          uid=1_107 generic
+                                            uid=1_108 generic
+                                uid=1_109 generic
+                                  uid=1_110 generic
+                                    uid=1_111 generic
+                                      uid=1_112 ignored
+                                        uid=1_113 generic
+                                          uid=1_114 StaticText "9:46"
+                                            uid=1_12 InlineTextBox "9:46"
+                                        uid=1_115 generic
+                                          uid=1_116 slider "Playbar" orientation="horizontal" value="0" valuemax="585.7470092773438" valuemin="0" valuetext="0 seconds"
+                                            uid=1_117 Canvas
+                                            uid=1_118 generic
+                                uid=1_119 generic
+                                  uid=1_120 generic
+                                    uid=1_121 generic
+                                      uid=1_122 generic
+                                        uid=1_123 generic
+                                          uid=1_124 button "Show captions menu" description="Show captions menu" expandable
+                                            uid=1_125 generic
+                                      uid=1_126 generic
+                                        uid=1_127 generic
+                                          uid=1_128 button "Mute" description="Mute"
+                                            uid=1_129 generic
+                                      uid=1_130 generic
+                                        uid=1_131 generic
+                                          uid=1_132 button "Show settings menu" description="Show settings menu" expandable
+                                            uid=1_133 generic
+                                      uid=1_134 generic
+                                        uid=1_135 generic
+                                          uid=1_136 button "Fullscreen" description="Fullscreen"
+                                            uid=1_137 generic
+                            uid=1_138 generic
+                              uid=1_139 ignored
+                              uid=1_140 ignored
+                              uid=1_141 ignored
+                      uid=1_142 generic
+                        uid=1_143 generic
+                      uid=1_144 generic
+                        uid=1_145 generic
+                      uid=1_146 generic
+                        uid=1_147 generic
+                      uid=1_148 generic
+                        uid=1_149 generic
+                    uid=1_150 generic
+        uid=1_151 generic
+          uid=1_152 generic
+            uid=1_153 StaticText "Step 2"
+              uid=1_12 InlineTextBox "Step 2"
+          uid=1_154 heading "Apply For PIF Below" level="2"
+            uid=1_155 StaticText "Apply For "
+              uid=1_12 InlineTextBox "Apply For "
+            uid=1_156 StaticText "PIF"
+              uid=1_12 InlineTextBox "PIF"
+            uid=1_157 StaticText " Below"
+              uid=1_12 InlineTextBox " Below"
+          uid=1_158 ignored
+            uid=1_159 generic
+              uid=1_160 ignored
+                uid=1_161 generic
+                  uid=1_162 Iframe "Organic - Application (NEW)"
+                    uid=1_163 RootWebArea "Organic - Application (CURRENT) | Which best describes your current experience with*…" url="https://form.typeform.com/to/libwbIoC?typeform-embed-id=2294597997609279&typeform-embed=embed-widget&typeform-source=learn.paidinfull.vip&typeform-medium=snippet&typeform-medium-version=next&embed-opacity=100&typeform-embed-handles-redirect=1&typeform-embed-auto-resize=true&typeform-embed-disable-scroll=true&typeform-embed-no-heading=true"
+                      uid=1_164 ignored
+                        uid=1_165 generic
+                          uid=1_166 generic
+                          uid=1_167 generic
+                            uid=1_168 generic
+                              uid=1_169 generic
+                                uid=1_170 image url="https://images.typeform.com/images/JRrnwnNEwgvE"
+                              uid=1_171 generic
+                                uid=1_172 ignored
+                                  uid=1_173 ignored
+                                    uid=1_174 ignored
+                                      uid=1_175 progressbar "Form progress" valuemax="100" valuemin="0" valuetext=""
+                                        uid=1_176 ignored
+                          uid=1_177 generic
+                            uid=1_178 ignored
+                              uid=1_179 ignored
+                                uid=1_180 generic
+                                uid=1_181 ignored
+                                  uid=1_182 generic
+                                    uid=1_183 generic
+                                      uid=1_184 progressbar "Form progress" value="0" valuemax="7" valuemin="0" valuetext=""
+                                        uid=1_185 ignored
+                                        uid=1_186 ignored
+                                      uid=1_187 ignored
+                                        uid=1_188 image url="https://images.typeform.com/images/JRrnwnNEwgvE"
+                                    uid=1_189 ignored
+                                      uid=1_190 ignored
+                                        uid=1_191 ignored
+                                          uid=1_192 ignored
+                                            uid=1_193 ignored
+                                              uid=1_194 ignored
+                                                uid=1_195 generic
+                                                  uid=1_196 generic
+                                                    uid=1_197 generic
+                                                      uid=1_198 generic
+                                                      uid=1_199 group "Question 1 of 7 Which best describes your current experience with High Ticket Sales? This question is required."
+                                                        uid=1_200 generic
+                                                        uid=1_201 generic
+                                                        uid=1_202 ignored
+                                                          uid=1_203 ignored
+                                                            uid=1_204 generic
+                                                              uid=1_205 generic
+                                                                uid=1_206 ignored
+                                                                  uid=1_207 generic "Question 1 of 7"
+                                                                    uid=1_208 StaticText "1"
+                                                                      uid=1_209 InlineTextBox "1"
+                                                            uid=1_210 Legend
+                                                              uid=1_211 StaticText "Which best describes your current experience with"
+                                                                uid=1_209 InlineTextBox "Which best describes your current experience with"
+                                                              uid=1_212 strong
+                                                                uid=1_213 StaticText " "
+                                                              uid=1_214 StaticText "High Ticket Sales?"
+                                                                uid=1_209 InlineTextBox "High Ticket Sales?"
+                                                              uid=1_215 generic "This question is required."
+                                                                uid=1_216 StaticText "*"
+                                                                  uid=1_209 InlineTextBox "*"
+                                                          uid=1_217 ignored
+                                                            uid=1_218 generic
+                                                        uid=1_219 ignored
+                                                          uid=1_220 ignored
+                                                            uid=1_221 ignored
+                                                              uid=1_222 group "Which best describes your current experience with* *High Ticket Sales?"
+                                                                uid=1_223 Legend
+                                                                  uid=1_224 StaticText "Which best describes your current experience with* *High Ticket Sales?"
+                                                                    uid=1_209 InlineTextBox "Which "
+                                                                    uid=1_209 InlineTextBox "best "
+                                                                    uid=1_209 InlineTextBox "describes "
+                                                                    uid=1_209 InlineTextBox "your "
+                                                                    uid=1_209 InlineTextBox "current "
+                                                                    uid=1_209 InlineTextBox "experience "
+                                                                    uid=1_209 InlineTextBox "with* "
+                                                                    uid=1_209 InlineTextBox "*High "
+                                                                    uid=1_209 InlineTextBox "Ticket "
+                                                                    uid=1_209 InlineTextBox "Sales?"
+                                                                uid=1_225 radiogroup
+                                                                  uid=1_226 radio "I need to land my first high-ticket sales role"
+                                                                    uid=1_227 ignored
+                                                                    uid=1_228 ignored
+                                                                      uid=1_229 StaticText "I need to land my first high-ticket sales role"
+                                                                        uid=1_209 InlineTextBox "I need to land my first high-ticket sales role"
+                                                                  uid=1_230 radio "I'm currently an appointment setter looking to become a closer"
+                                                                    uid=1_231 ignored
+                                                                    uid=1_232 ignored
+                                                                      uid=1_233 StaticText "I'm currently an appointment setter looking to become a closer"
+                                                                        uid=1_209 InlineTextBox "I'm currently an appointment setter looking to become a "
+                                                                        uid=1_209 InlineTextBox "closer"
+                                                                  uid=1_234 radio "I'm a beginner closer ($0 - $6K USD / month)"
+                                                                    uid=1_235 ignored
+                                                                    uid=1_236 ignored
+                                                                      uid=1_237 StaticText "I'm a beginner closer ($0 - $6K USD / month)"
+                                                                        uid=1_209 InlineTextBox "I'm a beginner closer ($0 - $6K USD / month)"
+                                                                  uid=1_238 radio "I'm an intermediate closer ($6K - $10K USD / month)"
+                                                                    uid=1_239 ignored
+                                                                    uid=1_240 ignored
+                                                                      uid=1_241 StaticText "I'm an intermediate closer ($6K - $10K USD / month)"
+                                                                        uid=1_209 InlineTextBox "I'm an intermediate closer ($6K - $10K USD / month)"
+                                                                  uid=1_242 radio "I'm an advanced closer (> $10K USD / month)"
+                                                                    uid=1_243 ignored
+                                                                    uid=1_244 ignored
+                                                                      uid=1_245 StaticText "I'm an advanced closer (> $10K USD / month)"
+                                                                        uid=1_209 InlineTextBox "I'm an advanced closer (> $10K USD / month)"
+                                                        uid=1_246 ignored
+                                                          uid=1_247 ignored
+                                                            uid=1_248 ignored
+                                                              uid=1_249 ignored
+                                                                uid=1_250 button "OK Next question"
+                                                                  uid=1_251 ignored
+                                                                  uid=1_252 ignored
+                                                                    uid=1_253 StaticText "OK"
+                                                                      uid=1_209 InlineTextBox "OK"
+                                                  uid=1_254 generic
+                                                    uid=1_255 ignored
+                                                    uid=1_256 ignored
+                                                    uid=1_257 ignored
+                                                    uid=1_258 ignored
+                                                    uid=1_259 ignored
+                                                  uid=1_260 generic
+                                    uid=1_261 generic
+                                      uid=1_262 ignored
+                                        uid=1_263 ignored
+                                          uid=1_264 button "Navigate to previous question" disableable disabled
+                                            uid=1_265 ignored
+                                              uid=1_266 image
+                                          uid=1_267 button "Navigate to next question"
+                                            uid=1_268 ignored
+                                              uid=1_269 image
+                                  uid=1_270 generic
+          uid=1_271 ignored
+            uid=1_272 image "Students placed on offers" url="https://learn.paidinfull.vip/assets/reps-trained.webp"
+            uid=1_273 generic
+              uid=1_274 StaticText "100+ Sales Reps Trained And Placed On Offers"
+                uid=1_12 InlineTextBox "100+ Sales Reps Trained And Placed On Offers"
+        uid=1_275 generic
+          uid=1_276 heading "Check Out Our Student Interviews:" level="2"
+            uid=1_277 StaticText "Check Out Our "
+              uid=1_12 InlineTextBox "Check Out Our "
+            uid=1_278 StaticText "Student"
+              uid=1_12 InlineTextBox "Student"
+            uid=1_279 StaticText " Interviews:"
+              uid=1_12 InlineTextBox " Interviews:"
+          uid=1_280 LineBreak "
+"
+            uid=1_12 InlineTextBox "
+"
+          uid=1_281 ignored
+            uid=1_282 heading "How This 18 Year Old Makes $500/Day In HTS" level="3"
+              uid=1_283 StaticText "How This "
+                uid=1_12 InlineTextBox "How This "
+              uid=1_284 StaticText "18 Year Old"
+                uid=1_12 InlineTextBox "18 Year Old"
+              uid=1_285 StaticText " Makes $500/Day In HTS"
+                uid=1_12 InlineTextBox " Makes $500/Day In HTS"
+            uid=1_286 generic
+              uid=1_287 button "Play video: 18 year old makes $500/day doing high ticket sales" description="18 year old makes $500/day doing high ticket sales"
+                uid=1_288 ignored
+                uid=1_289 ignored
+          uid=1_290 ignored
+            uid=1_291 heading "How He Makes $4k/Week In HTS" level="3"
+              uid=1_292 StaticText "How He Makes "
+                uid=1_12 InlineTextBox "How He Makes "
+              uid=1_293 StaticText "$4k/Week"
+                uid=1_12 InlineTextBox "$4k/Week"
+              uid=1_294 StaticText " In HTS"
+                uid=1_12 InlineTextBox " In HTS"
+            uid=1_295 generic
+              uid=1_296 button "Play video: How He Makes $4k/Week In HTS" description="How He Makes $4k/Week In HTS"
+                uid=1_297 ignored
+                uid=1_298 ignored
+          uid=1_299 ignored
+            uid=1_300 heading "How He Went From D2D To $600/Day In HTS" level="3"
+              uid=1_301 StaticText "How He Went From D2D To "
+                uid=1_12 InlineTextBox "How He Went From D2D To "
+              uid=1_302 StaticText "$600/Day"
+                uid=1_12 InlineTextBox "$600/Day"
+              uid=1_303 StaticText " In HTS"
+                uid=1_12 InlineTextBox " In HTS"
+            uid=1_304 generic
+              uid=1_305 button "Play video: How He Went From D2D To $600/Day In HTS" description="How He Went From D2D To $600/Day In HTS"
+                uid=1_306 ignored
+                uid=1_307 ignored
+          uid=1_308 ignored
+            uid=1_309 heading "How He Made $100k As An Appointment Setter" level="3"
+              uid=1_310 StaticText "How He Made "
+                uid=1_12 InlineTextBox "How He Made "
+              uid=1_311 StaticText "$100k"
+                uid=1_12 InlineTextBox "$100k"
+              uid=1_312 StaticText " As An Appointment Setter"
+                uid=1_12 InlineTextBox " As An Appointment Setter"
+            uid=1_313 generic
+              uid=1_314 button "Play video: How He Made $100k As An Appointment Setter" description="How He Made $100k As An Appointment Setter"
+                uid=1_315 ignored
+                uid=1_316 ignored
+          uid=1_317 ignored
+            uid=1_318 heading "How Davis Makes $2k+ Per Week" level="3"
+              uid=1_319 StaticText "How Davis "
+                uid=1_12 InlineTextBox "How Davis "
+              uid=1_320 StaticText "Makes $2k+"
+                uid=1_12 InlineTextBox "Makes $2k+"
+              uid=1_321 StaticText " Per Week"
+                uid=1_12 InlineTextBox " Per Week"
+            uid=1_322 generic
+              uid=1_323 button "Play video: How Davis Makes $2k+ Per Week" description="How Davis Makes $2k+ Per Week"
+                uid=1_324 ignored
+                uid=1_325 ignored
+          uid=1_326 ignored
+            uid=1_327 heading "Meet Stef Who Is Hitting $700 Days As A Setter" level="3"
+              uid=1_328 StaticText "Meet Stef Who Is Hitting "
+                uid=1_12 InlineTextBox "Meet Stef Who Is Hitting "
+              uid=1_329 StaticText "$700 Days"
+                uid=1_12 InlineTextBox "$700 Days"
+              uid=1_330 StaticText " As A Setter"
+                uid=1_12 InlineTextBox " As A Setter"
+            uid=1_331 generic
+              uid=1_332 button "Play video: Meet Stef Who Is Hitting $700 Days As A Setter" description="Meet Stef Who Is Hitting $700 Days As A Setter"
+                uid=1_333 ignored
+                uid=1_334 ignored
+          uid=1_335 ignored
+            uid=1_336 heading "Jaden Went From Failing Complicated Business Models To Printing $6k/Month As A Setter" level="3"
+              uid=1_337 StaticText "Jaden Went From Failing Complicated Business Models To "
+                uid=1_12 InlineTextBox "Jaden Went From Failing Complicated Business Models To "
+              uid=1_338 StaticText "Printing $6k/Month"
+                uid=1_12 InlineTextBox "Printing "
+                uid=1_12 InlineTextBox "$6k/Month"
+              uid=1_339 StaticText " As A Setter"
+                uid=1_12 InlineTextBox " As A Setter"
+            uid=1_340 generic
+              uid=1_341 button "Play video: Jaden printing $6k/month as a setter" description="Jaden printing $6k/month as a setter"
+                uid=1_342 ignored
+                uid=1_343 ignored
+        uid=1_344 generic
+          uid=1_345 link "Apply Now" url="https://learn.paidinfull.vip/get-access/#apply"
+            uid=1_346 StaticText "Apply Now"
+              uid=1_12 InlineTextBox "Apply Now"
+        uid=1_347 generic
+          uid=1_348 heading "Real Students, Real Results" level="2"
+            uid=1_349 StaticText "Real Students, "
+              uid=1_12 InlineTextBox "Real Students, "
+            uid=1_350 StaticText "Real Results"
+              uid=1_12 InlineTextBox "Real Results"
+          uid=1_351 ignored
+            uid=1_352 ignored
+              uid=1_353 image "PIF student win" url="https://learn.paidinfull.vip/assets/testimonials/51.avif"
+            uid=1_354 ignored
+              uid=1_355 image "PIF student win" url="https://learn.paidinfull.vip/assets/testimonials/52.avif"
+            uid=1_356 ignored
+              uid=1_357 image "PIF student win" url="https://learn.paidinfull.vip/assets/testimonials/53.avif"
+            uid=1_358 ignored
+              uid=1_359 image "PIF student win" url="https://learn.paidinfull.vip/assets/testimonials/54.avif"
+            uid=1_360 ignored
+              uid=1_361 image "PIF student win" url="https://learn.paidinfull.vip/assets/testimonials/55.avif"
+            uid=1_362 ignored
+              uid=1_363 image "PIF student win" url="https://learn.paidinfull.vip/assets/testimonials/56.avif"
+            uid=1_364 ignored
+              uid=1_365 image "PIF student win" url="https://learn.paidinfull.vip/assets/testimonials/57.avif"
+            uid=1_366 ignored
+              uid=1_367 image "PIF student win" url="https://learn.paidinfull.vip/assets/testimonials/58.avif"
+            uid=1_368 ignored
+              uid=1_369 image "PIF student win" url="https://learn.paidinfull.vip/assets/testimonials/59.avif"
+            uid=1_370 ignored
+              uid=1_371 image "PIF student win" url="https://learn.paidinfull.vip/assets/testimonials/60.avif"
+            uid=1_372 ignored
+              uid=1_373 image "PIF student win" url="https://learn.paidinfull.vip/assets/testimonials/61.avif"
+            uid=1_374 ignored
+              uid=1_375 image "PIF student win" url="https://learn.paidinfull.vip/assets/testimonials/62.avif"
+            uid=1_376 ignored
+              uid=1_377 image "PIF student win" url="https://learn.paidinfull.vip/assets/testimonials/63.avif"
+            uid=1_378 ignored
+              uid=1_379 image "PIF student win" url="https://learn.paidinfull.vip/assets/testimonials/64.avif"
+            uid=1_380 ignored
+              uid=1_381 image "PIF student win" url="https://learn.paidinfull.vip/assets/testimonials/65.avif"
+            uid=1_382 ignored
+              uid=1_383 image "PIF student win" url="https://learn.paidinfull.vip/assets/testimonials/66.avif"
+            uid=1_384 ignored
+              uid=1_385 image "PIF student win" url="https://learn.paidinfull.vip/assets/testimonials/67.avif"
+            uid=1_386 ignored
+              uid=1_387 image "PIF student win" url="https://learn.paidinfull.vip/assets/testimonials/68.avif"
+            uid=1_388 ignored
+              uid=1_389 image "PIF student win" url="https://learn.paidinfull.vip/assets/testimonials/69.avif"
+            uid=1_390 ignored
+              uid=1_391 image "PIF student win" url="https://learn.paidinfull.vip/assets/testimonials/70.avif"
+            uid=1_392 ignored
+              uid=1_393 image "PIF student win" url="https://learn.paidinfull.vip/assets/testimonials/71.avif"
+            uid=1_394 ignored
+              uid=1_395 image "PIF student win" url="https://learn.paidinfull.vip/assets/testimonials/72.avif"
+            uid=1_396 ignored
+              uid=1_397 image "PIF student win" url="https://learn.paidinfull.vip/assets/testimonials/74.avif"
+            uid=1_398 ignored
+              uid=1_399 image "PIF student win" url="https://learn.paidinfull.vip/assets/testimonials/75.avif"
+            uid=1_400 ignored
+              uid=1_401 image "PIF student win" url="https://learn.paidinfull.vip/assets/testimonials/76.avif"
+            uid=1_402 ignored
+              uid=1_403 image "PIF student win" url="https://learn.paidinfull.vip/assets/testimonials/77.avif"
+            uid=1_404 ignored
+              uid=1_405 image "PIF student win" url="https://learn.paidinfull.vip/assets/testimonials/78.avif"
+            uid=1_406 ignored
+              uid=1_407 image "PIF student win" url="https://learn.paidinfull.vip/assets/testimonials/79.avif"
+            uid=1_408 ignored
+              uid=1_409 image "PIF student win" url="https://learn.paidinfull.vip/assets/testimonials/80.avif"
+            uid=1_410 ignored
+              uid=1_411 image "PIF student win" url="https://learn.paidinfull.vip/assets/testimonials/81.avif"
+            uid=1_412 ignored
+              uid=1_413 image "PIF student win" url="https://learn.paidinfull.vip/assets/testimonials/82.avif"
+            uid=1_414 ignored
+              uid=1_415 image "PIF student win" url="https://learn.paidinfull.vip/assets/testimonials/83.avif"
+            uid=1_416 ignored
+              uid=1_417 image "PIF student win" url="https://learn.paidinfull.vip/assets/testimonials/85.avif"
+            uid=1_418 ignored
+              uid=1_419 image "PIF student win" url="https://learn.paidinfull.vip/assets/testimonials/86.avif"
+            uid=1_420 ignored
+              uid=1_421 image "PIF student win" url="https://learn.paidinfull.vip/assets/testimonials/89.avif"
+            uid=1_422 ignored
+              uid=1_423 image "PIF student win" url="https://learn.paidinfull.vip/assets/testimonials/90.avif"
+            uid=1_424 ignored
+              uid=1_425 image "PIF student win" url="https://learn.paidinfull.vip/assets/testimonials/colby-testimonial-1.avif"
+            uid=1_426 ignored
+              uid=1_427 image "PIF student win" url="https://learn.paidinfull.vip/assets/testimonials/ct2.avif"
+            uid=1_428 ignored
+              uid=1_429 image "PIF student win" url="https://learn.paidinfull.vip/assets/testimonials/ct3.avif"
+            uid=1_430 ignored
+              uid=1_431 image "PIF student win" url="https://learn.paidinfull.vip/assets/testimonials/ct4.avif"
+            uid=1_432 ignored
+              uid=1_433 image "PIF student win" url="https://learn.paidinfull.vip/assets/testimonials/ct5.avif"
+            uid=1_434 ignored
+              uid=1_435 image "PIF student win" url="https://learn.paidinfull.vip/assets/testimonials/ct6.avif"
+            uid=1_436 ignored
+              uid=1_437 image "PIF student win" url="https://learn.paidinfull.vip/assets/testimonials/ct7.avif"
+            uid=1_438 ignored
+              uid=1_439 image "PIF student win" url="https://learn.paidinfull.vip/assets/testimonials/ct8.avif"
+            uid=1_440 ignored
+              uid=1_441 image "PIF student win" url="https://learn.paidinfull.vip/assets/testimonials/ct9.avif"
+            uid=1_442 ignored
+              uid=1_443 image "PIF student win" url="https://learn.paidinfull.vip/assets/testimonials/ct10.avif"
+            uid=1_444 ignored
+              uid=1_445 image "PIF student win" url="https://learn.paidinfull.vip/assets/testimonials/ct11.avif"
+            uid=1_446 ignored
+              uid=1_447 image "PIF student win" url="https://learn.paidinfull.vip/assets/testimonials/ct12.avif"
+            uid=1_448 ignored
+              uid=1_449 image "PIF student win" url="https://learn.paidinfull.vip/assets/testimonials/ct13.avif"
+            uid=1_450 ignored
+              uid=1_451 image "PIF student win" url="https://learn.paidinfull.vip/assets/testimonials/ct14.avif"
+            uid=1_452 ignored
+              uid=1_453 image "PIF student win" url="https://learn.paidinfull.vip/assets/testimonials/ct15.avif"
+            uid=1_454 ignored
+              uid=1_455 image "PIF student win" url="https://learn.paidinfull.vip/assets/testimonials/ct16.avif"
+            uid=1_456 ignored
+              uid=1_457 image "PIF student win" url="https://learn.paidinfull.vip/assets/testimonials/ct17.avif"
+            uid=1_458 ignored
+              uid=1_459 image "PIF student win" url="https://learn.paidinfull.vip/assets/testimonials/ct18.avif"
+            uid=1_460 ignored
+              uid=1_461 image "PIF student win" url="https://learn.paidinfull.vip/assets/testimonials/ct19.avif"
+            uid=1_462 ignored
+              uid=1_463 image "PIF student win" url="https://learn.paidinfull.vip/assets/testimonials/ct21.avif"
+            uid=1_464 ignored
+              uid=1_465 image "PIF student win" url="https://learn.paidinfull.vip/assets/testimonials/ct22.avif"
+            uid=1_466 ignored
+              uid=1_467 image "PIF student win" url="https://learn.paidinfull.vip/assets/testimonials/ct29.avif"
+            uid=1_468 ignored
+              uid=1_469 image "PIF student win" url="https://learn.paidinfull.vip/assets/testimonials/ct30.avif"
+            uid=1_470 ignored
+              uid=1_471 image "PIF student win" url="https://learn.paidinfull.vip/assets/testimonials/ct31.avif"
+            uid=1_472 ignored
+              uid=1_473 image "PIF student win" url="https://learn.paidinfull.vip/assets/testimonials/ct32.avif"
+            uid=1_474 ignored
+              uid=1_475 image "PIF student win" url="https://learn.paidinfull.vip/assets/testimonials/ct34.avif"
+            uid=1_476 ignored
+              uid=1_477 image "PIF student win" url="https://learn.paidinfull.vip/assets/testimonials/ct35.avif"
+            uid=1_478 ignored
+              uid=1_479 image "PIF student win" url="https://learn.paidinfull.vip/assets/testimonials/ct36.avif"
+            uid=1_480 ignored
+              uid=1_481 image "PIF student win" url="https://learn.paidinfull.vip/assets/testimonials/ct38.avif"
+            uid=1_482 ignored
+              uid=1_483 image "PIF student win" url="https://learn.paidinfull.vip/assets/testimonials/ct39.avif"
+            uid=1_484 ignored
+              uid=1_485 image "PIF student win" url="https://learn.paidinfull.vip/assets/testimonials/ct40.avif"
+            uid=1_486 ignored
+              uid=1_487 image "PIF student win" url="https://learn.paidinfull.vip/assets/testimonials/ct41.avif"
+            uid=1_488 ignored
+              uid=1_489 image "PIF student win" url="https://learn.paidinfull.vip/assets/testimonials/ct42.avif"
+            uid=1_490 ignored
+              uid=1_491 image "PIF student win" url="https://learn.paidinfull.vip/assets/testimonials/ct43.avif"
+            uid=1_492 ignored
+              uid=1_493 image "PIF student win" url="https://learn.paidinfull.vip/assets/testimonials/ct45.avif"
+            uid=1_494 ignored
+              uid=1_495 image "PIF student win" url="https://learn.paidinfull.vip/assets/testimonials/ct46.avif"
+            uid=1_496 ignored
+              uid=1_497 image "PIF student win" url="https://learn.paidinfull.vip/assets/testimonials/ct47.avif"
+            uid=1_498 ignored
+              uid=1_499 image "PIF student win" url="https://learn.paidinfull.vip/assets/testimonials/ct49.avif"
+            uid=1_500 ignored
+              uid=1_501 image "PIF student win" url="https://learn.paidinfull.vip/assets/testimonials/t50.avif"
+        uid=1_502 generic
+          uid=1_503 link "Apply Now" url="https://learn.paidinfull.vip/get-access/#apply"
+            uid=1_504 StaticText "Apply Now"
+              uid=1_12 InlineTextBox "Apply Now"
+        uid=1_505 sectionfooter
+          uid=1_506 image "Paid In Full" url="https://learn.paidinfull.vip/assets/logos/logo-footer.avif"
+          uid=1_507 generic
+            uid=1_508 StaticText "Paid In Full – Copyright © 2025."
+              uid=1_12 InlineTextBox "Paid In Full – Copyright © 2025."
+            uid=1_509 LineBreak "
+"
+              uid=1_12 InlineTextBox "
+"
+            uid=1_510 StaticText "All rights reserved."
+              uid=1_12 InlineTextBox "All rights reserved."
+            uid=1_511 LineBreak "
+"
+              uid=1_12 InlineTextBox "
+"
+            uid=1_512 link "Terms of Service" url="https://learn.paidinfull.vip/terms-of-use/"
+              uid=1_513 StaticText "Terms of Service"
+                uid=1_12 InlineTextBox "Terms of Service"
+            uid=1_514 StaticText " | "
+              uid=1_12 InlineTextBox " | "
+            uid=1_515 link "Privacy Policy" url="https://learn.paidinfull.vip/privacy-policy/"
+              uid=1_516 StaticText "Privacy Policy"
+                uid=1_12 InlineTextBox "Privacy Policy"
