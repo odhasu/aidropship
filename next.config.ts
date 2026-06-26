@@ -1,8 +1,11 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
-  output: "standalone",
+  output: "export",
+  basePath: "/aidropship",
+  images: {
+    unoptimized: true,
+  },
 };
 
 export default nextConfig;
